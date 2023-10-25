@@ -1,0 +1,8 @@
+C:\Users\vagelis\source\repos\CalcOrGame\bin\Debug\CalcOrGame.exe.config
+C:\Users\vagelis\source\repos\CalcOrGame\bin\Debug\CalcOrGame.exe
+C:\Users\vagelis\source\repos\CalcOrGame\bin\Debug\CalcOrGame.pdb
+C:\Users\vagelis\source\repos\CalcOrGame\obj\Debug\CalcOrGame.csproj.AssemblyReference.cache
+C:\Users\vagelis\source\repos\CalcOrGame\obj\Debug\CalcOrGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\vagelis\source\repos\CalcOrGame\obj\Debug\CalcOrGame.csproj.CoreCompileInputs.cache
+C:\Users\vagelis\source\repos\CalcOrGame\obj\Debug\CalcOrGame.exe
+C:\Users\vagelis\source\repos\CalcOrGame\obj\Debug\CalcOrGame.pdb
